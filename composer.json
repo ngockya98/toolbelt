@@ -2,7 +2,7 @@
     "name": "ngockya98/toolbelt",
     "description": "Set of PHP helper functions wrapped for Laravel.",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
      "keywords": [
         "laravel", "php", "functions", "helpers","tools"
     ],
